@@ -15,8 +15,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
-
-    <link rel="stylesheet" href="<?php echo e(asset('css/app.css')); ?>">
+    <link type="text/css" rel="stylesheet" href="<?php echo e(mix('css/app.css')); ?>">
+    <link rel="stylesheet" href="<?php echo e(asset('css/style.css')); ?>">
 
 </head>
 <body class="antialiased">

@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf76db1e-070c-4244-b442-810d81bea896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homepage.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/WPBZT1BIjuvTILg4XofSUyrZPNp6rggJGEQuwlJl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/uL89iWkTqChO5ZsJ7w6Zuk6NgDHqUbmbIXkWPLol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/00c447e1ca945549a127c78852fc36e6.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/00c447e1ca945549a127c78852fc36e6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/50551f61d1b6ff9e3f4e6078589dd8d3.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/50551f61d1b6ff9e3f4e6078589dd8d3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/aaa213fd4df6059f59a97578b9996a63.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/aaa213fd4df6059f59a97578b9996a63.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +40,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -170,7 +183,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/laragon/www/pgoncalves/public/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/laragon/www/pgoncalves/node_modules/laravel-mix&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -182,7 +195,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\laragon\www\pgoncalves\public\assets" />
+      <recent name="E:\laragon\www\pgoncalves\node_modules\laravel-mix" />
+      <recent name="E:\laragon\www\pgoncalves\resources\js" />
+      <recent name="E:\laragon\www\pgoncalves\public\css" />
+      <recent name="E:\laragon\www\pgoncalves\public" />
+      <recent name="E:\laragon\www\pgoncalves\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -203,7 +220,10 @@
       <workItem from="1720607614193" duration="347000" />
       <workItem from="1720608764223" duration="14938000" />
       <workItem from="1720697472397" duration="11661000" />
-      <workItem from="1721031349403" duration="21350000" />
+      <workItem from="1721031349403" duration="21971000" />
+      <workItem from="1721122102554" duration="8393000" />
+      <workItem from="1721138120252" duration="5596000" />
+      <workItem from="1721292523284" duration="9143000" />
     </task>
     <servers />
   </component>
